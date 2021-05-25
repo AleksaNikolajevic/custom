@@ -171,16 +171,6 @@ body
 {
    text-align: left;
 }
-#wb_Shape1
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape1
-{
-   border-width: 0;
-   vertical-align: top;
-}
 #wb_LayoutGrid2
 {
    clear: both;
@@ -342,16 +332,6 @@ body
 #wb_Text2 div
 {
    text-align: left;
-}
-#wb_Shape2
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape2
-{
-   border-width: 0;
-   vertical-align: top;
 }
 #wb_LayoutGrid3
 {
@@ -515,16 +495,6 @@ body
 {
    text-align: left;
 }
-#wb_Shape3
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape3
-{
-   border-width: 0;
-   vertical-align: top;
-}
 #wb_LayoutGrid4
 {
    clear: both;
@@ -686,16 +656,6 @@ body
 #wb_Text4 div
 {
    text-align: left;
-}
-#wb_Shape4
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape4
-{
-   border-width: 0;
-   vertical-align: top;
 }
 #wb_LayoutGrid5
 {
@@ -859,16 +819,6 @@ body
 {
    text-align: left;
 }
-#wb_Shape5
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape5
-{
-   border-width: 0;
-   vertical-align: top;
-}
 #wb_LayoutGrid6
 {
    clear: both;
@@ -1030,16 +980,6 @@ body
 #wb_Text6 div
 {
    text-align: left;
-}
-#wb_Shape6
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape6
-{
-   border-width: 0;
-   vertical-align: top;
 }
 #wb_LayoutGrid7
 {
@@ -1203,16 +1143,6 @@ body
 {
    text-align: left;
 }
-#wb_Shape7
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape7
-{
-   border-width: 0;
-   vertical-align: top;
-}
 #wb_LayoutGrid8
 {
    clear: both;
@@ -1374,14 +1304,4 @@ body
 #wb_Text8 div
 {
    text-align: left;
-}
-#wb_Shape8
-{
-   transform: rotate(0deg);
-   transform-origin: 50% 50%;
-}
-#Shape8
-{
-   border-width: 0;
-   vertical-align: top;
 }
